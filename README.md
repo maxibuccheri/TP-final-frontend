@@ -1,1 +1,1 @@
-No llegue a completar el TP, me estuve poniendo al dia con las ultimas clases de react y no queria quedarme sin entregar. Estoy dispuesto a terminarlo en fecha de recuperatorio si es posible. Muchas gracias.
+No llegue a completar el TP, me estuve poniendo al dia con las ultimas clases de react y no queria quedarme sin entregar el trabajo. Estoy dispuesto a terminarlo en fecha de recuperatorio si es posible. Muchas gracias.
