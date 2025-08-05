@@ -65,10 +65,12 @@
     padding: 0px 12px;
     margin: 0px 0px 0px 18px;
     transition: background-color .3s, border .3s;
+    font-size: 15px;
+    color: #ABACAC;
 }
 
 .search-lupa{
-    color: #757778;
+    color: #ABACAC;
     width: 24px;
     height: 24px;
 }
