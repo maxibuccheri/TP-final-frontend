@@ -1,0 +1,82 @@
+.left-menu{
+    display: flex;
+    flex-direction: column;
+    width: 371px;
+    height: 100%;
+    background-color: #161717;
+}
+
+.title-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 371px;
+    height: 64px;
+}
+
+.title-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 64px;
+    position: relative;
+}
+
+.top-button-1{
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    border: transparent;
+    position: absolute;
+    right: 70px;
+    color: white;
+}
+
+.top-button-2{
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    border: transparent;
+    position: absolute;
+    right: 20px;
+    color: white;
+}
+
+.title-whatsapp{
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 80px;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #2E2F2F;
+    width: 331px;
+    height: 44px;
+    border-radius: 50px;
+    gap: 10px;
+    padding: 0px 12px;
+    margin: 0px 0px 0px 18px;
+    transition: background-color .3s, border .3s;
+}
+
+.search-lupa{
+    color: #757778;
+    width: 24px;
+    height: 24px;
+}
+
+.contact-filter{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    caret-color: #21C063;
+    z-index: 1;
+}
