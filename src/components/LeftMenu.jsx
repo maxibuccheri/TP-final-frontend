@@ -33,7 +33,7 @@ function LeftMenu() {
             </div>
 
             <div className='chats'>
-                    <img src="https://pbs.twimg.com/media/FRUcAHZWQAMMTgq.jpg" alt="" />
+                    <img src="https://t4.ftcdn.net/jpg/02/29/75/83/360_F_229758328_7x8jwCwjtBMmC6rgFzLFhZoEpLobB6L8.jpg" alt="" />
                 <div className='name'>
                     <h2>Chat 1</h2>
                     <span>hola</span>
@@ -42,7 +42,7 @@ function LeftMenu() {
             </div>
 
             <div className='chats'>
-                    <img src="https://pbs.twimg.com/media/FRUcAHZWQAMMTgq.jpg" alt="" />
+                    <img src="https://t4.ftcdn.net/jpg/02/29/75/83/360_F_229758328_7x8jwCwjtBMmC6rgFzLFhZoEpLobB6L8.jpg" alt="" />
                 <div className='name'>
                     <h2>Chat 2</h2>
                     <span>hola</span>
@@ -51,7 +51,7 @@ function LeftMenu() {
             </div>
 
             <div className='chats'>
-                    <img src="https://pbs.twimg.com/media/FRUcAHZWQAMMTgq.jpg" alt="" />
+                    <img src="https://t4.ftcdn.net/jpg/02/29/75/83/360_F_229758328_7x8jwCwjtBMmC6rgFzLFhZoEpLobB6L8.jpg" alt="" />
                 <div className='name'>
                     <h2>Chat 3</h2>
                     <span>hola</span>
@@ -60,7 +60,7 @@ function LeftMenu() {
             </div>
 
             <div className='chats'>
-                    <img src="https://pbs.twimg.com/media/FRUcAHZWQAMMTgq.jpg" alt="" />
+                    <img src="https://t4.ftcdn.net/jpg/02/29/75/83/360_F_229758328_7x8jwCwjtBMmC6rgFzLFhZoEpLobB6L8.jpg" alt="" />
                 <div className='name'>
                     <h2>Chat 4</h2>
                     <span>hola</span>
