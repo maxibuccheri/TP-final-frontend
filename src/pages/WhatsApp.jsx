@@ -15,6 +15,10 @@ function WhatsApp() {
                 <div className="left-side">
                     <LeftMenu/>
                 </div>
+
+                
+                    <ChatDetail/>
+                
             </div>
         </div>
     );

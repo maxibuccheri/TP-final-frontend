@@ -44,12 +44,13 @@
 }
 
 .title-whatsapp{
+    display: flex;
+    justify-content: ;
+    align-items: center;
     font-size: 24px;
     font-weight: 500;
     color: white;
-    position: absolute;
-    top: 20px;
-    left: 80px;
+    padding: 0px 0px 0px 20px;
 }
 
 .search-bar{
@@ -81,4 +82,76 @@
     outline: none;
     caret-color: #21C063;
     z-index: 1;
+}
+
+.contacts-chat{
+    display: flex;
+    flex-direction: row;
+    width: 371px;
+    height: 52px;
+    gap: 8px;
+    padding: 12px 0px 0px 18px;
+}
+
+.contacts-chat button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 58px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 18px;
+    background-color: transparent;
+    color: #ABACAC;
+    width: fit-content;
+    padding: 5px 8px 8px 8px;
+    border: 1px solid #2E2F2F;
+    cursor: pointer;
+    transition: background-color 1s;
+}
+
+.contacts-chat button:hover{
+    background-color: #2E2F2F;
+}
+
+.chats{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 371px;
+    height: 60px;
+    padding: 18px 0px 18px;
+    color: white;
+}
+
+.chats img{
+    width: 49px;
+    height: 49px;
+    border-radius: 20px;
+}
+
+.chats-time{
+    display: flex;
+    justify-content: end;
+    width: 50px;
+    height: 18px;
+    font-size: 14px;
+}
+
+.name{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 60px;
+    color: white;
+    padding: 0px 0px 0px 18px;
+    margin: 0px 50px 0px 0px;
+}
+
+.name h2{
+    font-size: 18px;
+}
+
+.name span{
+    font-size: 14px;
 }
