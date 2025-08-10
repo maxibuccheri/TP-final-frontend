@@ -6,7 +6,7 @@ function ChatDetail() {
         <div className='chat-principal'>
             <div className='chat-top'>
                 <div className='img-chat'>
-                    <img className='img-chat' src="https://pbs.twimg.com/media/FRUcAHZWQAMMTgq.jpg" alt="" />
+                    <img className='img-chat' src="https://t4.ftcdn.net/jpg/02/29/75/83/360_F_229758328_7x8jwCwjtBMmC6rgFzLFhZoEpLobB6L8.jpg" alt=""/>
                 </div>
                 <div className='chat-name'>
                     <h2>Chat 1</h2>
